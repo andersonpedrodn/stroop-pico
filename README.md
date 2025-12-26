@@ -4,7 +4,6 @@
 ![Hardware](https://img.shields.io/badge/Hardware-BitDogLab-green)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
-
 > **"Uma fusão entre Neuropsicologia Cognitiva e Sistemas Embarcados."**
 
 ## 📖 Sobre o Projeto
@@ -79,7 +78,10 @@ Desenvolvido por **Anderson Pedro**.
 Este projeto faz parte dos meus estudos em **Sistemas Embarcados**, buscando aplicar conceitos de psicologia em interfaces tangíveis e IoT.
 
 ---
-https://github.com/user-attachments/assets/92741872-3d60-4805-b93e-d584a63e5c48
+
+
+https://github.com/user-attachments/assets/47353fc3-117a-41c6-b29b-cf5586e028b3
+
 
 
 *Desenvolvido em Dezembro de 2025.*
