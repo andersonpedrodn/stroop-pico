@@ -4,6 +4,12 @@
 ![Hardware](https://img.shields.io/badge/Hardware-BitDogLab-green)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
+
+
+https://github.com/user-attachments/assets/92741872-3d60-4805-b93e-d584a63e5c48
+
+
+
 > **"Uma fusão entre Neuropsicologia Cognitiva e Sistemas Embarcados."**
 
 ## 📖 Sobre o Projeto
