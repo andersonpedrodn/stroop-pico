@@ -5,11 +5,6 @@
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
 
-
-https://github.com/user-attachments/assets/92741872-3d60-4805-b93e-d584a63e5c48
-
-
-
 > **"Uma fusão entre Neuropsicologia Cognitiva e Sistemas Embarcados."**
 
 ## 📖 Sobre o Projeto
@@ -84,4 +79,7 @@ Desenvolvido por **Anderson Pedro**.
 Este projeto faz parte dos meus estudos em **Sistemas Embarcados**, buscando aplicar conceitos de psicologia em interfaces tangíveis e IoT.
 
 ---
+https://github.com/user-attachments/assets/92741872-3d60-4805-b93e-d584a63e5c48
+
+
 *Desenvolvido em Dezembro de 2025.*
